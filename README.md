@@ -1,10 +1,10 @@
-# Lucidity Graph-Based Delivery Route Optimizer
+# Graph-Based Delivery Route Optimizer
 
 This project solves a real-world food delivery routing problem using **graph algorithms** in Java. The goal is to minimize total delivery time by determining the optimal path for a delivery agent (e.g., Aman) who picks up and delivers multiple food orders.
 
 ---
 
-## 📌 Problem Overview
+## Problem Overview
 
 A delivery agent starts at a fixed location and needs to:
 - Pick up orders from two restaurants (R1, R2)
